@@ -1,0 +1,54 @@
+.padre {
+  width: 270px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 40px;
+  color: rgb(156, 156, 40);
+  font-style: italic;
+  width: fit-content;
+  margin: auto;
+  padding-bottom: 35px;
+  padding-top: 25px;
+}
+
+.tasti {
+  display: inline-block;
+  height: 50px;
+  width: calc(100% / 4 - 0.9rem);
+  margin: 5px;
+}
+
+input {
+  height: 40px;
+  width: 246px;
+  color: #527bc7;
+  font-size: 30px;
+  font-weight: bold;
+  border: 2px solid #527bc7;
+  margin-left: 4px;
+}
+.risultato {
+  height: 40px;
+  width: 252px;
+  color: #527bc7;
+  font-size: 30px;
+  font-weight: bold;
+  border: none;
+  background-color: rgba(132, 138, 136, 0.425);
+}
+
+.simbolo {
+  color: #527bc7;
+  font-size: 20px;
+  font-weight: bold;
+  height: 50px;
+  width: 50px;
+  border: 0;
+  background-color: rgba(132, 138, 136, 0.425);
+  font-size: 30px;
+}
+.uguale {
+  padding-left: 4px;
+}
